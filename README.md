@@ -1,4 +1,6 @@
-# Wuhan Coronavirus
+# Wuhan Coronavirus(2019-nCov)
+
+用于可视化疫情图的程序。但数据在2020年1月22日之后就没有再更新了，因为手动收集数据的工作量太大了。。。不过附一个从大厂网站抓取的程序
 
 ## install pyechart for visualization
 

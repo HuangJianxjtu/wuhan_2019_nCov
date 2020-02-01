@@ -1,11 +1,5 @@
 from pyecharts import Geo, Style, Map
 
-# load excel sheet
-# df = pd.read_excel('./data.xlsx')
-# df.head()
-#
-# print(df)
-
 # 世界地图数据
 value = [95.1, 23.2, 43.3, 66.4, 88.5]
 attr = ["China", "Canada", "Brazil", "Russia", "United States"]
